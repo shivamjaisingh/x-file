@@ -13,7 +13,7 @@ This bash script provides a basic user interface for managing user files and enc
 ## Usage
 
 1. **Start the script:**
-   Run the script using a bash shell, i.e., `./script_name.sh`.
+   Run the script using a bash shell, i.e., `./x-file.sh`.
 
 2. **Enter USER NAME:**
    The script will first ask for a user name. It will check if a file with the name `<username>.txt` exists.
